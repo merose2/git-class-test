@@ -13,3 +13,4 @@ Test repository for Git class.
 
 . Clone repo, browse changes, show diffs
 . Make something.
+. Make something else.
