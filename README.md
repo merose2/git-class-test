@@ -14,3 +14,4 @@ Test repository for Git class.
 . Clone repo, browse changes, show diffs
 . Do something
 . Make something.
+. Another lab.
