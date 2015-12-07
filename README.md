@@ -8,3 +8,7 @@ Test repository for Git class.
 * Commit
 * Merge and commit upstream changes
 * Generate pull request
+
+## Exercises
+
+. Clone repo, browse changes, show diffs
