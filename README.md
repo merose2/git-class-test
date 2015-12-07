@@ -12,5 +12,7 @@ Test repository for Git class.
 ## Exercises
 
 . Clone repo, browse changes, show diffs
+. Do something
 . Make something.
-. Make something else.
+. Make something else. 
+. Another lab.
